@@ -92,16 +92,16 @@
 		</dependency>	
 	</dependencies>
 	<distributionManagement>
-	    <repository>
+	    <ReleaseRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://172.31.4.141:8181/mylandmarktech/repository/tesla-web-releases/</url>
-	    </repository>
+	      <url>http://172.31.73.163:8081/repository/paypal-web-app-release/</url>
+	    </ReleaseRepository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.4.141:8181/mylandmarktech/repository/tesla-webapp-snapshots/</url>
+	      <url></url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
