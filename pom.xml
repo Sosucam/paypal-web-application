@@ -92,11 +92,11 @@
 		</dependency>	
 	</dependencies>
 	<distributionManagement>
-	    <ReleaseRepository>
+	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
 	      <url>http://172.31.73.163:8081/repository/paypal-web-app-release/</url>
-	    </ReleaseRepository>
+	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
